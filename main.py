@@ -26,7 +26,7 @@ STOP_RUNNING = threading.Event()
 class PieChartApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Live Updating Pie Chart")
+        self.root.title("Network monitor")
         self.canvas = tk.Canvas(root, width=400, height=400)
         self.canvas.pack()
 
