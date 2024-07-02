@@ -22,6 +22,10 @@ When you installed everything, you are ready to run the script :
 
     ./run.sh
 
+Note: Passivly capturing packets isn't (to my knowledge) illegal, but MItM (represended in this tool as "Locking") it definitly.
+
+Use this tool on your own network, or with admin rights
+
 ---
 
 Enjoy and stay legal ;-)
